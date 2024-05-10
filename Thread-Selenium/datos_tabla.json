@@ -1,0 +1,26 @@
+[
+    {
+        "Datos Ont": {
+            "Conexion": "Ethernet",
+            "Direccion IP": "192.168.1.10",
+            "Uso Ancho Banda": "500.0",
+            "Autenticacion": "WPA2-PSK",
+            "Configuracion": "Configuraci\u00f3n predeterminada",
+            "Datos Diagnosticos": "[2] errores detectados",
+            "Funcionamiento": "False",
+            "Errores": "Error de conexion, Erro de autenticacion"
+        }
+    },
+    {
+        "Datos Ont": {
+            "Conexion": "Wi-Fi",
+            "Direccion IP": "192.168.1.20",
+            "Uso Ancho Banda": "300.0",
+            "Autenticacion": "WPA3-PSK",
+            "Configuracion": "Configuraci\u00f3n personalizada",
+            "Datos Diagnosticos": "Sin problemas detectados",
+            "Funcionamiento": "True",
+            "Errores": "Ninguno"
+        }
+    }
+]
