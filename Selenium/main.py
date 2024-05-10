@@ -38,7 +38,7 @@ try:
     confirmField = driver.find_element(By.XPATH, "//*[@id=\"isc_4Z\"]/table/tbody/tr/td").click()
 
     time.sleep(5)
-    recordedNotes = driver.find_element(By.XPATH, "//*[@id=\"isc_7Stable\"]/tbody/tr[2]/td[2]").click()
+    recordedNotes = driver.find_element(By.XPATH, "//*[@id=\"isc_7Btable\"]/tbody/tr[17]/td[2]/div").click()
 
     time.sleep(5)
     studentNotes = driver.find_element(By.XPATH, "//*[@id=\"isc_B0table\"]/tbody").click()
